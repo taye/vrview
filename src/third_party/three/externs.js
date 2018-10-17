@@ -1,6 +1,7 @@
 var THREE;
 var define;
 var module;
+var require;
 var exports;
 var performance;
 var WebGL2RenderingContext;
